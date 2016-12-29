@@ -1,0 +1,22 @@
+{
+  "name": "pug-plugin-no-yield",
+  "version": "1.0.0",
+  "description": "This pug-plugin converts \"yield\" into a tag instead of a keyword.",
+  "main": "index.js",
+  "keywords": [
+    "pug",
+    "plugin",
+    "ignore",
+    "riotjs"
+  ],
+  "author": "uk-taniyama <uk.taniyama@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pug-html-loader": "^1.0.9",
+    "pug": "^2.0.0-beta6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uk-taniyama/pug-plugin-no-yield.git"
+  }
+}
