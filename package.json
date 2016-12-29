@@ -1,8 +1,8 @@
 {
   "name": "pug-plugin-no-yield",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This pug-plugin converts \"yield\" into a tag instead of a keyword.",
-  "main": "index.js",
+  "main": "libs/index.js",
   "keywords": [
     "pug",
     "plugin",
